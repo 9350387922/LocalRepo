@@ -1,0 +1,33 @@
+/* Styles for fi=st.html */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+
+header {
+    background: #2d6cdf;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+}
+
+h1, h2, h3 {
+    color: #2d6cdf;
+}
+
+a {
+    color: black;
+}
